@@ -8,7 +8,7 @@
 
 This code makes use of my [Custom Java API](https://github.com/Dyndrilliac/java-custom-api). In order to build this source, you should clone the repository for the API using your Git client, then import the project into your IDE of choice (I prefer Eclipse), and finally modify the build path to include the API project. For more detailed instructions, see the README for the API project.
 
-This projecct forms the basis of a single-player game of Go against an AI opponent using the [American Go Association's Concise Rules](http://www.usgo.org/files/pdf/conciserules.pdf). No handicap functionality is available at this time, but it is on my todo list. Currently only the __Area scoring__ method is supported. I may look into implementing the __Territory scoring__ method in the future.
+This project forms the basis of a single-player game of Go against an AI opponent using the [American Go Association's Concise Rules](http://www.usgo.org/files/pdf/conciserules.pdf). No handicap functionality is available at this time, but it is on my todo list. Currently only the __Area scoring__ method is supported. I may look into implementing the __Territory scoring__ method in the future.
 
 # Known Bugs
 
